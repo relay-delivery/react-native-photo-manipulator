@@ -68,7 +68,7 @@
     "!/**/__tests__"
   ],
   "dependencies": {
-    "parse-color": "^1.0.0"
+    "@relay/parse-color": "^1.0.0"
   },
   "react-native-builder-bob": {
     "source": "src",

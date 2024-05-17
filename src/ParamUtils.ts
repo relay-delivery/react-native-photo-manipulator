@@ -2,7 +2,7 @@
  * Parameter Utilities Class
  */
 import {Image} from 'react-native';
-import parse from 'parse-color';
+import parse from '@relay/parse-color';
 import type {
   Color,
   ImageSource,
